@@ -1,7 +1,7 @@
 # Hi there 👋 This is Abdullah Al Nahid
 
 ```
-- Primarily working on Bioinformatics and Computational Biologyand Literature Mining.
+- Primarily working on Bioinformatics and Computational Biology.
 - Interested in ML, Dl
 - Open to collaboration
 ```
