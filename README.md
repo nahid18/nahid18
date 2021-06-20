@@ -5,12 +5,6 @@
 - Interested in ML, Dl
 - Open to collaboration
 ```
-## My stacks
-<img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=79740e&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=79740e&labelColor=211e1b)<br/>
-<img src="https://img.shields.io/badge/Frameworks-424242?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-211e1b?style=for-the-badge&logo=android&logoColor=79740e&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=79740e&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=79740e&labelColor=211e1b)<br/>
-<img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=79740e&labelColor=211e1b)
-
-
 ## My stats
 <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=nahid18&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
