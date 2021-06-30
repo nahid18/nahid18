@@ -2,7 +2,7 @@
 
 ```
 - Primarily working on Bioinformatics and Computational Biology.
-- Interested in ML, Dl
+- Interested in ML, Bioinformatics
 - Open to collaboration
 ```
 ## My stats
