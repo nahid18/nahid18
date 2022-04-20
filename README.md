@@ -24,3 +24,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/nahid18) 
 
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=nahid18&theme=react-dark)](https://github.com/nahid18/github-readme-activity-graph)
+
