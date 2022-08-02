@@ -1,10 +1,9 @@
 # Hi there 👋 This is Abdullah Al Nahid
 
-```
-- Primarily working on Bioinformatics and Computational Biology.
-- Interested in Machine Learning, Tool Development and Databases
-- Open to collaboration
-```
+1. Primarily working on Bioinformatics and Computational Biology.
+2. Interested in Machine Learning, Tool Development and Databases
+3. Open to collaboration
+
 ## My stats
 
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=nahid18&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers"/>
