@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahid18" alt="nahid18" /></a> </p>
 
-- 🔭 I’m currently working on [safewheel.xyz](latch.bio)
-
 - 👯 I’m looking to collaborate on [machine learning](bioinformatics)
 
 - 📫 How to reach me **abdnahid56@gmail.com**
