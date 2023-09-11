@@ -14,7 +14,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid18&show_icons=true&locale=en&layout=compact" alt="nahid18" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahid18&show_icons=true&locale=en" alt="nahid18" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid18&" alt="nahid18" /></p>
