@@ -2,7 +2,7 @@ Welcome to my GitHub page! A few things about me:
 
 * My name is Nahid, and I'm a Software Engineer with a BSc degree in Biochemistry and Molecular Biology
 * I'm an currently looking for Fall 24 Computational Biology and Bioinformatics PhD programs
-* I really like programming (Python, Javascript, R)
+* I like programming (Python, Javascript, R), football, cats
 
 <img src="https://komarev.com/ghpvc/?username=nahid18&label=Profile%20views&color=0e75b6&style=flat" alt="nahid18" />
 
