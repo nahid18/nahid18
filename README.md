@@ -1,10 +1,10 @@
-Welcome to my GitHub page! A few things about me:
+hi there 👋
 
-* incoming PHD student at USC mann school of pharmacy and pharmaceutical sciences
-* biochem and mol bio undergrad
-* programming, soccer, f1, cats
+- ⚡ incoming PHD student at USC mann school of pharmacy and pharmaceutical sciences
+- 📖 biochem and mol bio undergrad
+- 💻 programming, soccer, f1, cats
 
-<img src="https://komarev.com/ghpvc/?username=nahid18&label=Profile%20views&color=0e75b6&style=flat" alt="nahid18" />
+<img src="https://identity.usc.edu/wp-content/uploads/2022/08/PrimaryLogotype-1536x329.png" alt="usc"/>
 
 <!--
 Here are some ideas to get you started:
