@@ -4,10 +4,11 @@ hi there 👋
 - 📖 biochem and mol bio undergrad
 - 💻 programming, soccer, f1, cats
 
-<img src="https://identity.usc.edu/wp-content/uploads/2022/08/PrimaryLogotype-1536x329.png" alt="usc"/>
+<img src="https://github.com/nahid18/nahid18/assets/43277262/cf460d8b-0bcb-4746-b8c6-9e43ace33974" alt="usc"/>
 
 <!--
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
