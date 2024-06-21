@@ -1,6 +1,6 @@
 hi there 👋
 
-- ⚡ incoming PHD student at USC mann school of pharmacy and pharmaceutical sciences
+- ⚡ incoming PHD student at the University of Southern California
 - 📖 biochem and mol bio undergrad
 - 💻 programming, soccer, f1, cats
 
