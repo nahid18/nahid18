@@ -1,6 +1,6 @@
 hi there 👋
 
-- ⚡ Clinical and Experimental Therapeutics, Bioinformatics PHD student at USC
+- ⚡ clinical and experimental therapeutics, bioinformatics PHD student at USC
 - 📖 biochem and mol bio undergrad
 - 💻 programming, soccer, f1, cats
 
