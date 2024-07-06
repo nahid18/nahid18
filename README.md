@@ -1,7 +1,7 @@
 hi there 👋
 
 - ⚡ clinical and experimental therapeutics, bioinfo PHD student at USC
-- 📖 biochem and mol bio bachelor's
+- 📖 biochem and mol bio background
 - 💻 programming, soccer, cats
 
 
