@@ -1,6 +1,6 @@
 hi there 👋
 
-- ⚡ incoming PHD student at the University of Southern California
+- ⚡ Clinical and Experimental Therapeutics, Bioinformatics PHD student at USC
 - 📖 biochem and mol bio undergrad
 - 💻 programming, soccer, f1, cats
 
