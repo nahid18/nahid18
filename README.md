@@ -1,8 +1,8 @@
 hi there 👋
 
 - ⚡ clinical and experimental therapeutics, bioinfo PHD student at USC
-- 📖 biochem and mol bio
-- 💻 programming, soccer, f1, cats
+- 📖 biochem and mol bio bachelor's
+- 💻 programming, soccer, cats
 
 
 <!--
