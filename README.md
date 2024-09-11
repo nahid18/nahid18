@@ -3,12 +3,10 @@ hi there 👋
 - ⚡ clinical and experimental therapeutics, bioinfo PHD student at USC
 - 📖 biochem and mol bio background
 - 💻 programming, soccer, cats
+- 📫 contact: DM me on X ([@abdnahid_](https://x.com/abdnahid_))
 
 
 <!--
-Here are some ideas to get you started:
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
