@@ -1,6 +1,6 @@
 hi there 👋
 
-- ⚡ compbio, clinical and exp therapeutics PhD student at USC
+- ⚡ PhD student at USC
 - 📖 biochem and mol bio background
 - 💻 programming, soccer, cats
 - 📫 contact: dm me on x ([@abdnahid_](https://x.com/@abdnahid_))
